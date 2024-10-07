@@ -1,5 +1,5 @@
-streamlit
-numpy
-pandas
-statsmodels
-matplotlib
+streamlit == 1.39.0
+numpy == 2.1.2
+pandas == 2.2.3
+statsmodels == 0.14.4
+matplotlib == 3.9.2
